@@ -109,23 +109,26 @@ export const PROJECTS: Project[] = [
     tags: ["UI/UX", "Fitness", "iOS",  "Health",  "Wellness",  "Excercise"],
     details: {
       challenge: "Users often feel overwhelmed by inconsistent fitness routines, complex workout planning, and lack of motivation to stay consistent due to minimal immediate feedback on their progress.",
-      solution: "We designed a gamified fitness experience with real-time progress visualization through a 'Fit Arena' where users unlock levels, grow their avatar strength, and build streaks by completing workouts and health goals.",
-      outcome: "Successfully increased user retention by 45% over the first three months of the beta launch, with over 75,000 workouts completed and a significant boost in daily active engagement through community challenges.",
+      solution: "We designed a gamified fitness experience with real-time progress visualization through a 'FitNova' where users unlock levels, grow their avatar strength, and build streaks by completing workouts and health goals.",
+      outcome: "Successfully increased user retention by 45% over the first three months of the beta launch, with over 8,000 workouts completed and a significant boost in daily active engagement through community challenges.",
       stats: [
         { label: "Retention", value: "+40%" },
         { label: "Active Users", value: "3k+" },
         { label: "Workouts Completed", value: "8k+" }
       ],
       screens: [
-        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1740&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1586717791821-3f44a563eb4c?q=80&w=1740&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1547658719-da2b51169166?q=80&w=1964&auto=format&fit=crop"
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778773611/7.1.1_-_A_-_Beginner_xebsea.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778773592/5_-_A_-_Home_ilfsdv.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785607/7.3_-_A_-_Nutrition_nv6lzl.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785612/7.4.2_-_D_-_Challenge_Competitions_yd9jnb.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785648/8_-_A_-_Recomendations_kolr1s.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785731/10_-_A_-_Articles_Tips_r93ih5.png"
       ],
       gallery: [
-        "https://images.unsplash.com/photo-1522542550221-31fd19255a7a?q=80&w=1740&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1558655146-d09347e92766?q=80&w=1964&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1715&auto=format&fit=crop",
-        "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1740&auto=format&fit=crop"
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785607/7.3_-_A_-_Nutrition_nv6lzl.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785612/7.4.2_-_D_-_Challenge_Competitions_yd9jnb.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785648/8_-_A_-_Recomendations_kolr1s.png",
+        "https://res.cloudinary.com/dsuutxrh8/image/upload/v1778785731/10_-_A_-_Articles_Tips_r93ih5.png"
       ]
     }
   },
