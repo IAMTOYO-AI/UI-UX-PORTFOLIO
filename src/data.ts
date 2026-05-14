@@ -102,19 +102,19 @@ export const SOCIAL_LINKS = {
 export const PROJECTS: Project[] = [
   {
     id: "ecosphere",
-    title: "EcoSphere",
-    category: "Sustainability App",
-    description: "A comprehensive platform for tracking personal carbon footprints and community environmental goals.",
+    title: "FitNova",
+    category: "Fitness App",
+    description: "A comprehensive platform for tracking personal fitness progress, health goals, workouts, and community wellness challenges.",
     image: "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?q=80&w=2013&auto=format&fit=crop",
-    tags: ["UI/UX", "Product Design", "iOS"],
+    tags: ["UI/UX", "Fitness", "iOS",  "Health",  "Wellness",  "Excercise"],
     details: {
-      challenge: "Users often feel overwhelmed by the complexity of carbon tracking and lack motivation to sustain eco-friendly habits due to a lack of immediate visual feedback.",
-      solution: "We designed a gamified experience with real-time data visualization through an 'Eco-Garden' that grows as users complete sustainable tasks.",
-      outcome: "Successfully increased user retention by 40% over the first three months of the beta launch, with over 50,000 active community micro-goals completed.",
+      challenge: "Users often feel overwhelmed by inconsistent fitness routines, complex workout planning, and lack of motivation to stay consistent due to minimal immediate feedback on their progress.",
+      solution: "We designed a gamified fitness experience with real-time progress visualization through a 'Fit Arena' where users unlock levels, grow their avatar strength, and build streaks by completing workouts and health goals.",
+      outcome: "Successfully increased user retention by 45% over the first three months of the beta launch, with over 75,000 workouts completed and a significant boost in daily active engagement through community challenges.",
       stats: [
         { label: "Retention", value: "+40%" },
-        { label: "Active Users", value: "50k+" },
-        { label: "Rating", value: "4.9/5" }
+        { label: "Active Users", value: "3k+" },
+        { label: "Workouts Completed", value: "8k+" }
       ],
       screens: [
         "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1740&auto=format&fit=crop",
