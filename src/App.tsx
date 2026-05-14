@@ -42,7 +42,7 @@ function Home({ activeTab, setActiveTab }: { activeTab: string, setActiveTab: (t
           className="mb-8"
         >
           <span className="px-4 py-1 border border-white/10 rounded-full text-xs font-mono text-gray-400 uppercase tracking-widest bg-white/5">
-            Available for freelance
+            Available for Hire
           </span>
         </motion.div>
         
